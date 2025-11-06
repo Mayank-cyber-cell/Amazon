@@ -18,12 +18,7 @@
 
 ---
 
-## 🎬 Preview  
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/placeholder/amazon-clone-preview.gif" width="700" alt="Amazon Clone Preview Animation" />
-</p>
 
----
 
 ## 🧩 Features  
 ✅ Homepage with product display and banners  
