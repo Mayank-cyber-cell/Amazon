@@ -1,73 +1,66 @@
-# Welcome to your Lovable project
+<p align="center">
+  <img src="https://i.ibb.co/bL5hZ6z/amazon-logo.png" width="120" alt="Amazon Logo" />
+</p>
 
-## Project info
+<h1 align="center">Amazon Clone 🛒</h1>
 
-**URL**: https://lovable.dev/projects/0cc9a1f4-92b8-4f93-9ac4-b3f18afa35d4
+<p align="center">
+  A front-end clone of the Amazon website created to understand layout, structure, and responsive design.<br>
+  Built using <b>HTML, CSS, and JavaScript</b>.
+</p>
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## 🌐 Live Demo  
+<p align="center">
+  🔗 <a href="https://amazonclonebyus.netlify.app/" target="_blank"><b>View the Live Website</b></a>
+</p>
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/0cc9a1f4-92b8-4f93-9ac4-b3f18afa35d4) and start prompting.
+## 🎬 Preview  
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/placeholder/amazon-clone-preview.gif" width="700" alt="Amazon Clone Preview Animation" />
+</p>
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+## 🧩 Features  
+✅ Homepage with product display and banners  
+✅ Navigation bar with search functionality  
+✅ Product listings and price sections  
+✅ Sign-in and cart pages  
+✅ Responsive layout for mobile and desktop  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## ⚙️ Tech Stack  
+| Technology | Purpose |
+|-------------|----------|
+| **HTML5** | Structure and content |
+| **CSS3** | Styling and layout |
+| **JavaScript** | Basic interactivity |
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🧠 Learning Goals  
+- Understanding front-end page composition  
+- Practicing responsive web design  
+- Improving code structure and readability  
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+---
 
-# Step 3: Install the necessary dependencies.
-npm i
+## 📂 Project Overview  
+This project replicates the basic design and structure of Amazon’s website.  
+It demonstrates how front-end technologies can be combined to create an e-commerce-style interface focusing on layout and usability.
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## ⚠️ Disclaimer  
+This project is built for **educational purposes only** and is **not affiliated with or endorsed by Amazon**.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/0cc9a1f4-92b8-4f93-9ac4-b3f18afa35d4) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00A8E8&center=true&vCenter=true&width=500&lines=Built+for+practice;Front-end+Amazon+Clone;By+Mayank+Kumar+Shah" alt="Typing Animation" />
+</p>
