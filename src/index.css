@@ -1,0 +1,98 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    /* Amazon-inspired E-commerce Design System */
+    --background: 0 0% 100%;
+    --foreground: 210 11% 7%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 210 11% 7%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 210 11% 7%;
+
+    /* Amazon dark navy primary */
+    --primary: 203 28% 8%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Amazon dark secondary */
+    --secondary: 210 16% 15%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 210 40% 96%;
+    --muted-foreground: 215 16% 47%;
+
+    /* Amazon gold/orange accent */
+    --accent: 37 90% 68%;
+    --accent-foreground: 210 11% 7%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 37 90% 68%;
+
+    --radius: 0.25rem;
+
+    /* Custom tokens */
+    --header-bg: 203 28% 8%;
+    --header-secondary: 210 16% 15%;
+    --prime-blue: 207 89% 54%;
+    --sale-red: 0 84% 60%;
+    --success-green: 142 71% 45%;
+    --rating-gold: 45 100% 51%;
+
+    /* Shadows */
+    --shadow-sm: 0 1px 2px 0 rgb(0 0 0 / 0.05);
+    --shadow-md: 0 4px 6px -1px rgb(0 0 0 / 0.1);
+    --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1);
+  }
+
+  .dark {
+    --background: 203 28% 8%;
+    --foreground: 0 0% 100%;
+
+    --card: 210 16% 15%;
+    --card-foreground: 0 0% 100%;
+
+    --popover: 210 16% 15%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 0 0% 100%;
+    --primary-foreground: 203 28% 8%;
+
+    --secondary: 210 16% 20%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 210 16% 20%;
+    --muted-foreground: 215 20% 65%;
+
+    --accent: 37 90% 68%;
+    --accent-foreground: 203 28% 8%;
+
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 210 16% 20%;
+    --input: 210 16% 20%;
+    --ring: 37 90% 68%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
