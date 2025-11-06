@@ -1,0 +1,670 @@
+[
+  {
+    "id": "1",
+    "title": "Wireless Bluetooth Headphones with Active Noise Cancellation",
+    "price": 79.99,
+    "originalPrice": 129.99,
+    "rating": 4.5,
+    "reviews": 2847,
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&q=80"
+    ],
+    "description": "Premium wireless headphones with industry-leading noise cancellation technology. Enjoy up to 30 hours of battery life and superior sound quality.",
+    "features": [
+      "Active Noise Cancellation",
+      "30-hour battery life",
+      "Bluetooth 5.0 connectivity",
+      "Comfortable over-ear design",
+      "Built-in microphone for calls"
+    ],
+    "category": "Electronics",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "2",
+    "title": "Smart Watch Fitness Tracker with Heart Rate Monitor",
+    "price": 149.99,
+    "rating": 4.7,
+    "reviews": 5234,
+    "images": [
+      "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&q=80",
+      "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=800&q=80"
+    ],
+    "description": "Advanced fitness tracker with continuous heart rate monitoring, sleep tracking, and smartphone notifications. Water-resistant up to 50 meters.",
+    "features": [
+      "Heart rate monitoring",
+      "Sleep tracking",
+      "50m water resistance",
+      "7-day battery life",
+      "GPS tracking",
+      "Multiple sport modes"
+    ],
+    "category": "Electronics",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "3",
+    "title": "4K Ultra HD Smart LED TV 55 Inch",
+    "price": 549.99,
+    "originalPrice": 799.99,
+    "rating": 4.6,
+    "reviews": 1823,
+    "images": [
+      "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=800&q=80"
+    ],
+    "description": "Stunning 4K Ultra HD resolution with HDR support and built-in streaming apps. Voice control compatible and includes 3 HDMI ports.",
+    "features": [
+      "4K Ultra HD resolution",
+      "HDR10 support",
+      "Smart TV with built-in apps",
+      "Voice control compatible",
+      "3 HDMI ports",
+      "Screen mirroring"
+    ],
+    "category": "Electronics",
+    "prime": false,
+    "inStock": true
+  },
+  {
+    "id": "4",
+    "title": "Professional DSLR Camera Bundle with Lenses",
+    "price": 1299.99,
+    "rating": 4.8,
+    "reviews": 892,
+    "images": [
+      "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=800&q=80"
+    ],
+    "description": "Complete photography bundle including camera body, 18-55mm and 75-300mm lenses, camera bag, tripod, and accessories.",
+    "features": [
+      "24.2MP APS-C sensor",
+      "Dual lens kit included",
+      "Full HD video recording",
+      "Wi-Fi and Bluetooth connectivity",
+      "Camera bag and tripod included"
+    ],
+    "category": "Electronics",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "5",
+    "title": "Gaming Laptop 15.6\" - RTX Graphics, 16GB RAM",
+    "price": 1499.99,
+    "originalPrice": 1899.99,
+    "rating": 4.5,
+    "reviews": 3421,
+    "images": [
+      "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=800&q=80"
+    ],
+    "description": "High-performance gaming laptop with RTX graphics, 16GB RAM, 512GB SSD, and 144Hz display. Perfect for gaming and creative work.",
+    "features": [
+      "RTX 3060 graphics card",
+      "16GB DDR4 RAM",
+      "512GB NVMe SSD",
+      "144Hz refresh rate display",
+      "RGB backlit keyboard",
+      "Advanced cooling system"
+    ],
+    "category": "Electronics",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "6",
+    "title": "Wireless Mechanical Gaming Keyboard RGB",
+    "price": 129.99,
+    "rating": 4.4,
+    "reviews": 1567,
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&q=80"
+    ],
+    "description": "Premium mechanical gaming keyboard with customizable RGB lighting, wireless connectivity, and hot-swappable switches.",
+    "features": [
+      "Mechanical switches",
+      "Wireless 2.4GHz + Bluetooth",
+      "Customizable RGB lighting",
+      "Hot-swappable switches",
+      "N-key rollover",
+      "80-hour battery life"
+    ],
+    "category": "Electronics",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "7",
+    "title": "The Midnight Library - Bestselling Novel",
+    "price": 14.99,
+    "originalPrice": 24.99,
+    "rating": 4.7,
+    "reviews": 18234,
+    "images": [
+      "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=800&q=80"
+    ],
+    "description": "A dazzling novel about all the choices that go into a life well lived. Nora Seed finds a library beyond the edge of the universe.",
+    "features": [
+      "Paperback edition",
+      "384 pages",
+      "International bestseller",
+      "Perfect for book clubs",
+      "Author: Matt Haig"
+    ],
+    "category": "Books",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "8",
+    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits",
+    "price": 16.99,
+    "rating": 4.9,
+    "reviews": 45672,
+    "images": [
+      "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=800&q=80"
+    ],
+    "description": "No matter your goals, Atomic Habits offers a proven framework for improving--every day. Transform your life with tiny changes in behavior.",
+    "features": [
+      "Hardcover edition",
+      "320 pages",
+      "#1 New York Times bestseller",
+      "Self-improvement guide",
+      "Author: James Clear"
+    ],
+    "category": "Books",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "9",
+    "title": "Premium Men's Running Shoes - Lightweight Athletic",
+    "price": 89.99,
+    "rating": 4.6,
+    "reviews": 2341,
+    "images": [
+      "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800&q=80"
+    ],
+    "description": "Lightweight running shoes with responsive cushioning and breathable mesh upper. Perfect for daily training and long-distance running.",
+    "features": [
+      "Breathable mesh upper",
+      "Responsive cushioning",
+      "Durable rubber outsole",
+      "Available in multiple colors",
+      "True to size fit"
+    ],
+    "category": "Clothing",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "10",
+    "title": "Women's Yoga Leggings - High Waist Athletic Pants",
+    "price": 34.99,
+    "originalPrice": 49.99,
+    "rating": 4.5,
+    "reviews": 5678,
+    "images": [
+      "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=800&q=80"
+    ],
+    "description": "High-waisted yoga leggings with four-way stretch fabric and moisture-wicking technology. Perfect for yoga, gym, or casual wear.",
+    "features": [
+      "High-waist design",
+      "Four-way stretch",
+      "Moisture-wicking fabric",
+      "Hidden pocket",
+      "Non-see-through material",
+      "Multiple size options"
+    ],
+    "category": "Clothing",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "11",
+    "title": "Classic Men's Leather Wallet - RFID Blocking",
+    "price": 24.99,
+    "rating": 4.7,
+    "reviews": 3421,
+    "images": [
+      "https://images.unsplash.com/photo-1627123424574-724758594e93?w=800&q=80"
+    ],
+    "description": "Genuine leather bifold wallet with RFID blocking technology. Features multiple card slots and bill compartment.",
+    "features": [
+      "Genuine leather",
+      "RFID blocking protection",
+      "6 card slots",
+      "2 bill compartments",
+      "Compact design",
+      "Gift box included"
+    ],
+    "category": "Clothing",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "12",
+    "title": "Stainless Steel Cookware Set - 10 Piece",
+    "price": 199.99,
+    "originalPrice": 299.99,
+    "rating": 4.8,
+    "reviews": 1234,
+    "images": [
+      "https://images.unsplash.com/photo-1584990347449-39e4a10b9d0e?w=800&q=80"
+    ],
+    "description": "Professional-grade stainless steel cookware set. Includes pots, pans, and lids. Oven safe up to 500°F and dishwasher safe.",
+    "features": [
+      "10-piece set",
+      "Stainless steel construction",
+      "Oven safe to 500°F",
+      "Dishwasher safe",
+      "Induction compatible",
+      "Lifetime warranty"
+    ],
+    "category": "Home",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "13",
+    "title": "Smart Robot Vacuum Cleaner with Mapping",
+    "price": 299.99,
+    "rating": 4.6,
+    "reviews": 2876,
+    "images": [
+      "https://images.unsplash.com/photo-1558317374-067fb5f30001?w=800&q=80"
+    ],
+    "description": "Intelligent robot vacuum with laser navigation and smart mapping. App control, scheduled cleaning, and automatic charging.",
+    "features": [
+      "Laser navigation",
+      "Smart home mapping",
+      "App and voice control",
+      "2-hour battery life",
+      "Auto-recharge",
+      "HEPA filtration"
+    ],
+    "category": "Home",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "14",
+    "title": "Memory Foam Mattress Queen Size - Cooling Gel",
+    "price": 449.99,
+    "originalPrice": 699.99,
+    "rating": 4.7,
+    "reviews": 4521,
+    "images": [
+      "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800&q=80"
+    ],
+    "description": "Premium memory foam mattress with cooling gel technology. Medium-firm feel with excellent motion isolation.",
+    "features": [
+      "Cooling gel memory foam",
+      "Medium-firm comfort",
+      "Motion isolation",
+      "CertiPUR-US certified",
+      "10-year warranty",
+      "Compressed shipping"
+    ],
+    "category": "Home",
+    "prime": false,
+    "inStock": true
+  },
+  {
+    "id": "15",
+    "title": "Modern Table Lamp with USB Charging Port",
+    "price": 39.99,
+    "rating": 4.5,
+    "reviews": 987,
+    "images": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&q=80"
+    ],
+    "description": "Contemporary bedside lamp with built-in USB charging ports and touch control. Three brightness levels with warm LED light.",
+    "features": [
+      "Touch control",
+      "3 brightness levels",
+      "Built-in USB ports",
+      "Warm LED light",
+      "Modern design",
+      "Energy efficient"
+    ],
+    "category": "Home",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "16",
+    "title": "Building Blocks Creative Set - 1000 Pieces",
+    "price": 49.99,
+    "rating": 4.8,
+    "reviews": 3421,
+    "images": [
+      "https://images.unsplash.com/photo-1587654780291-39c9404d746b?w=800&q=80"
+    ],
+    "description": "Large building blocks set with 1000 pieces in assorted colors. Includes instruction booklet for 20+ designs. Compatible with major brands.",
+    "features": [
+      "1000 pieces included",
+      "Multiple colors",
+      "20+ design ideas",
+      "Compatible with major brands",
+      "Storage container included",
+      "Ages 6+"
+    ],
+    "category": "Toys",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "17",
+    "title": "Remote Control Racing Car - High Speed RC Vehicle",
+    "price": 69.99,
+    "originalPrice": 99.99,
+    "rating": 4.6,
+    "reviews": 1876,
+    "images": [
+      "https://images.unsplash.com/photo-1517524285303-d6fc683dddf8?w=800&q=80"
+    ],
+    "description": "High-speed remote control car reaching speeds up to 30 mph. All-terrain capability with rechargeable battery included.",
+    "features": [
+      "30 mph top speed",
+      "All-terrain tires",
+      "2.4GHz remote control",
+      "Rechargeable battery",
+      "Durable construction",
+      "Ages 8+"
+    ],
+    "category": "Toys",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "18",
+    "title": "Educational STEM Robotics Kit for Kids",
+    "price": 89.99,
+    "rating": 4.9,
+    "reviews": 2341,
+    "images": [
+      "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&q=80"
+    ],
+    "description": "Complete robotics kit teaching coding and engineering principles. Build 12 different robot models with app-based programming.",
+    "features": [
+      "12 robot models",
+      "App-based programming",
+      "Step-by-step instructions",
+      "STEM learning",
+      "Ages 10+",
+      "Battery-powered motors"
+    ],
+    "category": "Toys",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "19",
+    "title": "Portable Bluetooth Speaker - Waterproof",
+    "price": 49.99,
+    "rating": 4.5,
+    "reviews": 5678,
+    "images": [
+      "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&q=80"
+    ],
+    "description": "Compact waterproof Bluetooth speaker with 360° sound. 12-hour battery life and built-in microphone for hands-free calls.",
+    "features": [
+      "Waterproof IPX7 rating",
+      "12-hour battery",
+      "360° sound",
+      "Bluetooth 5.0",
+      "Built-in microphone",
+      "Compact portable design"
+    ],
+    "category": "Electronics",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "20",
+    "title": "USB-C Charging Cable 3-Pack - Fast Charge",
+    "price": 19.99,
+    "rating": 4.7,
+    "reviews": 8765,
+    "images": [
+      "https://images.unsplash.com/photo-1591290619762-d2c5a0d7a9f6?w=800&q=80"
+    ],
+    "description": "Premium USB-C cables supporting fast charging and data transfer. Includes 3ft, 6ft, and 10ft cables with braided nylon construction.",
+    "features": [
+      "3-pack (3ft, 6ft, 10ft)",
+      "Fast charging support",
+      "Braided nylon cable",
+      "Durable connectors",
+      "Universal compatibility",
+      "2-year warranty"
+    ],
+    "category": "Electronics",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "21",
+    "title": "Electric Toothbrush with Smart Timer",
+    "price": 59.99,
+    "originalPrice": 89.99,
+    "rating": 4.6,
+    "reviews": 3456,
+    "images": [
+      "https://images.unsplash.com/photo-1607613009820-a29f7bb81c04?w=800&q=80"
+    ],
+    "description": "Rechargeable electric toothbrush with 5 cleaning modes and built-in 2-minute timer. Includes 4 brush heads and travel case.",
+    "features": [
+      "5 cleaning modes",
+      "2-minute smart timer",
+      "30-day battery life",
+      "4 brush heads included",
+      "Travel case",
+      "Waterproof design"
+    ],
+    "category": "Home",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "22",
+    "title": "Air Purifier with HEPA Filter - Large Room",
+    "price": 179.99,
+    "rating": 4.7,
+    "reviews": 2134,
+    "images": [
+      "https://images.unsplash.com/photo-1585771724684-38269d6639fd?w=800&q=80"
+    ],
+    "description": "High-efficiency air purifier for rooms up to 500 sq ft. True HEPA filter captures 99.97% of particles. Smart sensor and auto mode.",
+    "features": [
+      "True HEPA filter",
+      "Covers 500 sq ft",
+      "Smart air quality sensor",
+      "Auto mode",
+      "Quiet operation",
+      "Filter replacement indicator"
+    ],
+    "category": "Home",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "23",
+    "title": "Wireless Earbuds with Charging Case",
+    "price": 39.99,
+    "originalPrice": 79.99,
+    "rating": 4.4,
+    "reviews": 6789,
+    "images": [
+      "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800&q=80"
+    ],
+    "description": "True wireless earbuds with premium sound quality and comfortable fit. 24-hour total battery life with charging case.",
+    "features": [
+      "True wireless design",
+      "24-hour battery life",
+      "IPX5 water resistance",
+      "Touch controls",
+      "Built-in microphone",
+      "Compact charging case"
+    ],
+    "category": "Electronics",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "24",
+    "title": "Yoga Mat with Carrying Strap - Extra Thick",
+    "price": 29.99,
+    "rating": 4.6,
+    "reviews": 4321,
+    "images": [
+      "https://images.unsplash.com/photo-1601925260368-ae2f83cf8b7f?w=800&q=80"
+    ],
+    "description": "Premium extra-thick yoga mat with superior cushioning and non-slip surface. Includes carrying strap and exercise guide.",
+    "features": [
+      "Extra thick 1/2 inch",
+      "Non-slip surface",
+      "Eco-friendly material",
+      "Carrying strap included",
+      "Easy to clean",
+      "72 x 24 inches"
+    ],
+    "category": "Home",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "25",
+    "title": "Insulated Water Bottle - 32oz Stainless Steel",
+    "price": 24.99,
+    "rating": 4.8,
+    "reviews": 5432,
+    "images": [
+      "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800&q=80"
+    ],
+    "description": "Double-wall insulated stainless steel water bottle. Keeps drinks cold for 24 hours or hot for 12 hours. Leak-proof lid.",
+    "features": [
+      "32oz capacity",
+      "Double-wall insulation",
+      "Leak-proof lid",
+      "BPA-free",
+      "Dishwasher safe",
+      "Available in 6 colors"
+    ],
+    "category": "Home",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "26",
+    "title": "Board Game Collection - Family Strategy Games",
+    "price": 44.99,
+    "rating": 4.7,
+    "reviews": 1876,
+    "images": [
+      "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?w=800&q=80"
+    ],
+    "description": "Award-winning strategy board game for 2-5 players. Easy to learn, challenging to master. Average playtime 60-90 minutes.",
+    "features": [
+      "2-5 players",
+      "60-90 minute gameplay",
+      "Strategic thinking",
+      "High-quality components",
+      "Ages 10+",
+      "Award-winning design"
+    ],
+    "category": "Toys",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "27",
+    "title": "Desk Organizer with Wireless Charger",
+    "price": 34.99,
+    "rating": 4.5,
+    "reviews": 1234,
+    "images": [
+      "https://images.unsplash.com/photo-1611269154421-4e27233ac5c7?w=800&q=80"
+    ],
+    "description": "Multi-functional desk organizer with built-in wireless charging pad. Includes pen holder, phone stand, and storage compartments.",
+    "features": [
+      "Wireless charging pad",
+      "Multiple compartments",
+      "Phone stand",
+      "Pen holder",
+      "Premium wood finish",
+      "Cable management"
+    ],
+    "category": "Home",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "28",
+    "title": "Professional Blender - High Speed 1400W",
+    "price": 129.99,
+    "originalPrice": 199.99,
+    "rating": 4.7,
+    "reviews": 3210,
+    "images": [
+      "https://images.unsplash.com/photo-1585515320310-259814833e62?w=800&q=80"
+    ],
+    "description": "Powerful 1400W blender with 8 speed settings and pulse function. Perfect for smoothies, soups, and frozen drinks.",
+    "features": [
+      "1400W motor",
+      "8 speed settings",
+      "64oz pitcher",
+      "Stainless steel blades",
+      "Dishwasher safe parts",
+      "5-year warranty"
+    ],
+    "category": "Home",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "29",
+    "title": "Digital Drawing Tablet for Artists",
+    "price": 249.99,
+    "rating": 4.6,
+    "reviews": 1567,
+    "images": [
+      "https://images.unsplash.com/photo-1612198188060-c7c2a3b66eae?w=800&q=80"
+    ],
+    "description": "Professional graphics tablet with 8192 pressure levels and battery-free pen. Compatible with Windows and Mac.",
+    "features": [
+      "8192 pressure levels",
+      "Battery-free pen",
+      "10 x 6 inch active area",
+      "8 customizable buttons",
+      "Windows & Mac compatible",
+      "Free drawing software"
+    ],
+    "category": "Electronics",
+    "prime": true,
+    "inStock": true
+  },
+  {
+    "id": "30",
+    "title": "Coffee Maker with Thermal Carafe - 12 Cup",
+    "price": 89.99,
+    "rating": 4.8,
+    "reviews": 4567,
+    "images": [
+      "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=800&q=80"
+    ],
+    "description": "Programmable coffee maker with thermal carafe that keeps coffee hot for hours. Auto-shutoff and brew strength control.",
+    "features": [
+      "12-cup capacity",
+      "Thermal carafe",
+      "Programmable timer",
+      "Brew strength control",
+      "Auto-shutoff",
+      "Gold-tone filter"
+    ],
+    "category": "Home",
+    "prime": true,
+    "inStock": true
+  }
+]
