@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.ibb.co/bL5hZ6z/amazon-logo.png" width="120" alt="Amazon Logo" />
-</p>
 
 <h1 align="center">Amazon Clone 🛒</h1>
 
