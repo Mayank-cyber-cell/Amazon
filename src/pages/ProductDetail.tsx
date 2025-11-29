@@ -72,6 +72,18 @@ const ProductDetail = () => {
     });
   };
 
+  const handleBuyNow = () => {
+    for (let i = 0; i < quantity; i++) {
+      addToCart({
+        id: product.id,
+        title: product.title,
+        price: product.price,
+        image: product.images[0],
+      });
+    }
+    navigate('/checkout');
+  };
+
   const handleWishlistToggle = () => {
     if (!product) return;
     
@@ -253,13 +265,16 @@ const ProductDetail = () => {
               {/* Add to Cart Button */}
               <button
                 onClick={handleAddToCart}
-                className="w-full bg-[hsl(var(--accent))] hover:bg-[hsl(var(--accent))]/90 text-gray-900 font-semibold py-3 px-6 rounded-full transition-colors mb-3 flex items-center justify-center gap-2"
+                className="w-full bg-[hsl(var(--accent))] hover:bg-[hsl(var(--accent))]/90 text-gray-900 font-semibold py-3 px-6 rounded-full transition-all hover:scale-[1.02] mb-3 flex items-center justify-center gap-2"
               >
                 <ShoppingCart className="h-5 w-5" />
                 Add to Cart
               </button>
 
-              <button className="w-full bg-[hsl(var(--accent))]/30 hover:bg-[hsl(var(--accent))]/40 text-foreground font-semibold py-3 px-6 rounded-full transition-colors">
+              <button 
+                onClick={handleBuyNow}
+                className="w-full bg-[hsl(var(--prime-blue))] hover:bg-[hsl(var(--prime-blue))]/90 text-white font-semibold py-3 px-6 rounded-full transition-all hover:scale-[1.02]"
+              >
                 Buy Now
               </button>
 

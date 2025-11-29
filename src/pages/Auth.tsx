@@ -111,7 +111,7 @@ const Auth = () => {
           });
         }
       }
-    } catch (error: any) {
+    } catch {
       toast({
         title: 'Error',
         description: 'Something went wrong. Please try again.',

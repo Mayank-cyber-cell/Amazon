@@ -183,7 +183,7 @@ const Search = () => {
               </span>
               <select
                 value={sortBy}
-                onChange={(e) => setSortBy(e.target.value as any)}
+                onChange={(e) => setSortBy(e.target.value as 'relevance' | 'price-asc' | 'price-desc' | 'rating')}
                 className="px-4 py-2 border border-border rounded bg-card text-foreground focus:outline-none focus:ring-2 focus:ring-[hsl(var(--accent))]"
               >
                 <option value="relevance">Sort by: Relevance</option>
