@@ -75,34 +75,34 @@ const Footer = () => {
           <div>
             <h3 className="font-bold text-lg mb-4">Connect with Us</h3>
             <div className="flex gap-4 mb-6">
-              <a 
-                href="#" 
+              <button
+                type="button"
                 className="p-2 bg-white/10 rounded-full hover:bg-[hsl(var(--accent))] hover:text-gray-900 transition-all hover:scale-110"
                 aria-label="Facebook"
               >
                 <Facebook className="h-5 w-5" />
-              </a>
-              <a 
-                href="#" 
+              </button>
+              <button
+                type="button"
                 className="p-2 bg-white/10 rounded-full hover:bg-[hsl(var(--accent))] hover:text-gray-900 transition-all hover:scale-110"
                 aria-label="Twitter"
               >
                 <Twitter className="h-5 w-5" />
-              </a>
-              <a 
-                href="#" 
+              </button>
+              <button
+                type="button"
                 className="p-2 bg-white/10 rounded-full hover:bg-[hsl(var(--accent))] hover:text-gray-900 transition-all hover:scale-110"
                 aria-label="Instagram"
               >
                 <Instagram className="h-5 w-5" />
-              </a>
-              <a 
-                href="#" 
+              </button>
+              <button
+                type="button" 
                 className="p-2 bg-white/10 rounded-full hover:bg-[hsl(var(--accent))] hover:text-gray-900 transition-all hover:scale-110"
                 aria-label="Youtube"
               >
                 <Youtube className="h-5 w-5" />
-              </a>
+              </button>
             </div>
             <div className="space-y-2 text-sm text-gray-300">
               <div className="flex items-center gap-2">
