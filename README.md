@@ -1,4 +1,3 @@
-
 <h1 align="center">Amazon Clone 🛒</h1>
 
 <p align="center">
