@@ -42,6 +42,7 @@
 
 ---
 
+
 ## 📂 Project Overview  
 This project replicates the basic design and structure of Amazon’s website.  
 It demonstrates how front-end technologies can be combined to create an e-commerce-style interface focusing on layout and usability.
