@@ -16,7 +16,6 @@
 ---
 
 
-
 ## 🧩 Features  
 ✅ Homepage with product display and banners  
 ✅ Navigation bar with search functionality  
