@@ -1,7 +1,7 @@
 import { Link } from 'react-router-dom';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
-import { useWishlist } from '@/contexts/WishlistContext';
+import { useWishlist, WishlistItem } from '@/contexts/WishlistContext';
 import { useCart } from '@/contexts/CartContext';
 import { Heart, ShoppingCart, Trash2 } from 'lucide-react';
 import { Button } from '@/components/ui/button';
@@ -12,7 +12,7 @@ const Wishlist = () => {
   const { wishlist, removeFromWishlist } = useWishlist();
   const { addToCart } = useCart();
 
-  const handleAddToCart = (item: any) => {
+  const handleAddToCart = (item: WishlistItem) => {
     addToCart({
       id: item.id,
       title: item.title,
@@ -112,7 +112,7 @@ const Wishlist = () => {
                 {/* Price */}
                 <div className="mt-auto">
                   <span className="text-2xl font-bold text-foreground">
-                    ${item.price.toFixed(2)}
+                    ₹{item.price.toFixed(2)}
                   </span>
                 </div>
 
